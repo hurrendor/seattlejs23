@@ -2,7 +2,7 @@
 id: oz1j5ni1dcxduvryo63st39
 title: Seattlejs
 desc: ''
-updated: 1691513546912
+updated: 1691516167175
 created: 1691511657035
 ---
 
@@ -13,7 +13,8 @@ created: 1691511657035
 
 ## Rebuilding in Rust for Good Reason - Eve Porcello [[rebuilding_in_rust]]
 
-## 50 shades of React rendering with Next.js - Ben Ilegbodu
+## 50 shades of React rendering with Next.js - Ben Ilegbodu [[react_rendering]]
+
 # 10:40 - Break
 # 11:15
 ## FLIP no more; Viva View Transitions - Adam Argyle

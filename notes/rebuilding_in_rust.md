@@ -2,7 +2,7 @@
 id: 7djwz7zpl7w5upx2714k73b
 title: Rebuilding_in_rust
 desc: ''
-updated: 1691514168954
+updated: 1691514694199
 created: 1691513438960
 ---
 
@@ -20,3 +20,8 @@ Benefits found:
 
 Caveats:
 * Uses only double quotes
+
+
+Resources:
+- rustforjs.dev
+LinkedIn Learning - Rust for Developers by Eve Porcello
