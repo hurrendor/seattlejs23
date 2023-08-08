@@ -2,7 +2,7 @@
 id: 46gp5d41whxsw23pyk4ew03
 title: Every Process
 desc: ''
-updated: 1691532356548
+updated: 1691534541856
 created: 1691527360934
 ---
 # Every Process, Everywhere, All at Once - Luis Montes
@@ -49,3 +49,7 @@ Use wildcard certs on domains
 More federated
 
 TCP and UDP sockets still need to happen in the browser.
+
+# TL;DR 
+
+If we can get full duplex packet transfers working between web browsers without any reverse proxying shennanigens it would be possible to implement a fully peer to peer system that doesn't rely on centralized authority. In some ways a system like this would be more resilient to bad corporate actors or, worse, hostile state actors. Google can't shut down a Nest device that doesn't rely on talking to Google servers to work, for example. As it stands there's some ambiguity on what levels of trust you will have to possess to impement a decentralized system based wholly on browser technology. Do we trust web browser vendors? Should we have to? Big questions!
