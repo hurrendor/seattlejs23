@@ -2,7 +2,7 @@
 id: clnwkhztghgqen05w4dorjn
 title: React_rendering
 desc: ''
-updated: 1691516566034
+updated: 1691519155461
 created: 1691514884910
 ---
 # 50 shades of React rendering with Next.js - Ben Ilegbodu
@@ -19,16 +19,16 @@ Next.js uses rendering React to a string instead of to a DOM (isomorphic React) 
 Types of Rendering
 
 Next focuses on path based routing, dyanmic path based routing
-//src/pages/product/[id].tsx
+example path: `//src/pages/product/[id].tsx`
 
 ## Client-Side Rendering (CSR)
 Page HTML is rendered in the browser. Great for consistently changing data, or dynamic content and provides a fast response time.
 
-Great for dashboards && 3rd party widgets, or usage of 3rd party widgets.
+Great for dashboards & 3rd party widgets, or usage of 3rd party widgets. ^zb7l29n84q8v
 
 Cons:
 - Slow render time
-- Poor SEO && UI cache
+- Poor SEO & UI cache
 
 ## Server-Side Rendering (SSR) 
 AKA 'Dyanmic Rendering'

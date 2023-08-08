@@ -2,7 +2,7 @@
 id: oz1j5ni1dcxduvryo63st39
 title: Seattlejs
 desc: ''
-updated: 1691518948013
+updated: 1691519062964
 created: 1691511657035
 ---
 
@@ -17,6 +17,8 @@ created: 1691511657035
 
 ## 10:40 - Break
 ### [Product Overview by Cloudinary](https://next.cloudinary.dev/)
+Cloudinary provides the ability to overlay text and images.
+
 ## 11:15
 ### FLIP no more; Viva View Transitions - Adam Argyle
 ### Creating a Design System using Design Tokens With Amplify - Erik Hanchett
