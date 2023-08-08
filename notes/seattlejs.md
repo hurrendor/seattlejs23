@@ -2,7 +2,7 @@
 id: oz1j5ni1dcxduvryo63st39
 title: Seattlejs
 desc: ''
-updated: 1691519062964
+updated: 1691520520058
 created: 1691511657035
 ---
 
@@ -20,8 +20,10 @@ created: 1691511657035
 Cloudinary provides the ability to overlay text and images.
 
 ## 11:15
-### FLIP no more; Viva View Transitions - Adam Argyle
-### Creating a Design System using Design Tokens With Amplify - Erik Hanchett
+### FLIP no more; Viva View Transitions - Adam Argyle [[view-transitions]]
+
+### Creating a Design System using Design Tokens With Amplify - Erik Hanchett [[amplify-design-tokens]]
+
 ### Move over passwords, passkeys are my new best friend! - Daphne Liu
 ## 12:40  Lunch
 ## 13:45

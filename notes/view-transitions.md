@@ -2,7 +2,7 @@
 id: sq5b7d8hhtd5jdf8oxnfaxp
 title: View Transitions
 desc: ''
-updated: 1691520068343
+updated: 1691520423765
 created: 1691519173033
 ---
 # FLIP no more; Viva View Transitions - Adam Argyle
@@ -48,6 +48,7 @@ Use customize media
 ## Customizing with CSS
 PRovides the ability to customize the 'outgoing' and 'incoming' image.
 
+### Demos
 - [Text Replace Codepen]()
 Interval goes through to replace previous image with new image - in this case it's characters.
 
@@ -57,3 +58,22 @@ Similar to above, but code insights show that the previously selected item/anima
 
 - [Morphing Multi-State Button]()
 Uses setInnerHtml to adjust transitions
+
+
+## Further Customization with Only Children
+When exiting or entering the stage with `:only-child`
+Animation customization when there is not a pair to the item in question.
+
+### Demos
+- [IsotopJS-esque Transitions]()
+Event listener for the value which adjust the display values of some elements as well as the grid transitions.
+
+- [Input Number Changed]()
+Number transitions as the number changes, combined with a number slider. Giving each individual element like the `$` or `,` character their own individual names allows for higher control of transitions.
+
+## Recap
+* Morphing
+* Customizing old & new animations
+* Customizing stage entrances/exits
+
+[CodePen collections]()
