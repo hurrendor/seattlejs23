@@ -2,7 +2,7 @@
 id: oz1j5ni1dcxduvryo63st39
 title: Seattlejs
 desc: ''
-updated: 1691529079587
+updated: 1691532589771
 created: 1691511657035
 ---
 
@@ -43,6 +43,9 @@ DOC - [[multiplayer-reactions]]
 DOC - [[every-process]]
 
 ## 15:05 - Break
+### Info about Thursday (August 8) workshop - Brook Riggio
+How to work with AI and integrate it into the tools that we use. Work LLMs into apps that you build and walk away with a few apps that are fully integrated.
+
 ## 15:35 - Re-convene
 
 ### ES13 and Beyond: The Future of JavaScript - Christina Zhu  
