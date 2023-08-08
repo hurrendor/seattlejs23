@@ -2,7 +2,7 @@
 id: oz1j5ni1dcxduvryo63st39
 title: Seattlejs
 desc: ''
-updated: 1691520520058
+updated: 1691521875679
 created: 1691511657035
 ---
 
@@ -24,9 +24,11 @@ Cloudinary provides the ability to overlay text and images.
 
 ### Creating a Design System using Design Tokens With Amplify - Erik Hanchett [[amplify-design-tokens]]
 
-### Move over passwords, passkeys are my new best friend! - Daphne Liu
+### Move over passwords, passkeys are my new best friend! - Daphne Liu [[passkeys]]
+
 ## 12:40  Lunch
 ## 13:45
+
 ### Understanding LangChain Agents and Tools with Twilio (or with SMS) - Lizzie Siegle
 ### Building a Real-Time Multiplayer Reactions Component - John Pham
 ### Every Process, Everywhere, All at Once - Luis Montes
