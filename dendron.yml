@@ -72,6 +72,7 @@ workspace:
     maxPreviewsCached: 10
     maxNoteLength: 204800
     enableFullHierarchyNoteTitle: false
+    enablePersistentHistory: false
 preview:
     enableFMTitle: true
     enableNoteTitleForLink: true

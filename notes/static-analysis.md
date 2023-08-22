@@ -2,7 +2,7 @@
 id: d7w2zpv4ukha5bltqxd6q7j
 title: Static Analysis
 desc: ''
-updated: 1691537316222
+updated: 1691596431809
 created: 1691527484192
 ---
 # Static Analysis: Don't Fear the Linter! - Josh Goldberg
@@ -80,9 +80,15 @@ Detect Incorrect Async Code
 ## TLDR; 
 1. Make sure you're using a formatter, linter AND type checker
 2. Use the recommended lint configs for your langauge, frameworks
-3. Check the template-typescript-node-package
+3. Check the [template-typescript-node-package](https://github.com/JoshuaKGoldberg/template-typescript-node-package)
 4. Check dustispecker/awesome-eslint for great ESLint configs & plugins
 
+
+## Resources
+* prettier.io
+* eslint.org
+* typescriptlang.org
+* typescript-eslint.io
 
 ## Takeaway Config File Recommendations
 #### .eslintrc.js

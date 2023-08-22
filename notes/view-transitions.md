@@ -2,11 +2,12 @@
 id: sq5b7d8hhtd5jdf8oxnfaxp
 title: View Transitions
 desc: ''
-updated: 1691520423765
+updated: 1692747732330
 created: 1691519173033
 ---
 # FLIP no more; Viva View Transitions - Adam Argyle
-[Slides](seattlejs-view-transitions.netlify.app)
+[Slides](seattlejs-view-transitions.netlify.app) |
+[Talk on YouTube](https://www.youtube.com/watch?v=is1C2RDV4LI)
 
 ## Two Flavors
 1. Same Page 
