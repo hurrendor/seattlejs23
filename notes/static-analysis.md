@@ -2,11 +2,12 @@
 id: d7w2zpv4ukha5bltqxd6q7j
 title: Static Analysis
 desc: ''
-updated: 1691596431809
+updated: 1694555476965
 created: 1691527484192
 ---
 # Static Analysis: Don't Fear the Linter! - Josh Goldberg
 [Slides](https://onedrive.live.com/view.aspx?resid=D699ACCFCBD51CF5!1028281&ithint=file%2cpptx&authkey=!ACxCyVcuS7lZvSs)
+[Talk on YouTube](https://www.youtube.com/watch?v=qiDzxvdKt-Y)
 
 Josh Goldberg - [Speaking Schedule](https://www.joshuakgoldberg.com/speaking/#2023)
 
@@ -69,10 +70,7 @@ Adjust ESLint rules to always show as yellow 'warn' squigglies instead of all re
 "eslint.rules.customizations": { "rule": *, "severity": "warn"}
 
 ### Eslint Parser
-Tells ESLint how to parse TypeScript
-
-**INSERT SOMETHING ELSE MISSED FROM SLIDE**
-
+Tells ESLint how to parse TypeScript / read TypeScript syntax
 
 ## Type-checked Linting
 Detect Incorrect Async Code
@@ -83,23 +81,8 @@ Detect Incorrect Async Code
 3. Check the [template-typescript-node-package](https://github.com/JoshuaKGoldberg/template-typescript-node-package)
 4. Check dustispecker/awesome-eslint for great ESLint configs & plugins
 
-
 ## Resources
 * prettier.io
 * eslint.org
 * typescriptlang.org
 * typescript-eslint.io
-
-## Takeaway Config File Recommendations
-#### .eslintrc.js
-```
-{
-
-}
-```
-
-```
-{
-    
-}
-```

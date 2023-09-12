@@ -2,11 +2,12 @@
 id: 2ex3lbvm23i8f57mdoyyihn
 title: Boring Tech
 desc: ''
-updated: 1691538544302
+updated: 1694552420211
 created: 1691527519235
 ---
 # A Plea for Boring Tech - Jason Lengstorf
 [Slides - Needs link!]()
+[Talk on YouTube](https://www.youtube.com/watch?v=75dQlJKIfV0)
 
 Jason Lengstorf - [Learn With Jason](learnwithjason.dev) || [General links](jason.energy/links)
 

@@ -2,11 +2,12 @@
 id: 46gp5d41whxsw23pyk4ew03
 title: Every Process
 desc: ''
-updated: 1691534541856
+updated: 1694552566113
 created: 1691527360934
 ---
 # Every Process, Everywhere, All at Once - Luis Montes
 [Slides](seattlejs23.netlify.app)
+[Talk on YouTube](https://www.youtube.com/watch?v=WUSunyeYX-E)
 Luis Montes - @monteslu@fosstodon.org
 
 
