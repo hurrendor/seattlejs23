@@ -2,11 +2,12 @@
 id: 2zx52ri4d5pvccbz6uvfwmc
 title: Multiplayer Reactions
 desc: ''
-updated: 1691530693911
+updated: 1695244675569
 created: 1691527316699
 ---
 # Building a Real-Time Multiplayer Reactions Component - John Pham
-[Slides](https://live-reactions-slides.vercel.app/)
+[Talk on YouTube](https://www.youtube.com/watch?v=e6eQLNcLF8g) |
+[Slides](https://live-reactions-slides.vercel.app/) |
 [Reactions](dub.sh/reactions)
 
 John Pham - @JohnPhamous
@@ -18,8 +19,7 @@ John Pham - @JohnPhamous
 Creating a multiplayer application presents a series of issues:
 * Learning sockets
 * Scaling servers
-* **TODO: Add more from slides**
-LiveBlocks provides the ability 
+... more on slides
 
 ## Accesibility
 * Role attributes

@@ -2,11 +2,11 @@
 id: 56xdw50o5e1exl7n5fe1ihe
 title: Langchain Agents
 desc: ''
-updated: 1691529370104
+updated: 1695244522172
 created: 1691527279315
 ---
 # Understanding LangChain Agents and Tools with Twilio (or with SMS) - Lizzie Siegle
-[Slides](https://docs.google.com/presentation/d/1lE_e5oGZksRtBhZVUPbKnw4KJjA3dAah5mhm-lJ4agU/edit#slide=id.p)
+[Talk on YouTube](https://www.youtube.com/watch?v=AHnxRJbpyYc) | [Slides](https://docs.google.com/presentation/d/1lE_e5oGZksRtBhZVUPbKnw4KJjA3dAah5mhm-lJ4agU/edit#slide=id.p)
 [Code](https://github.com/elizabethsiegle/seattlejs/blob/main/talk.js)
 
 Lizzie Siegle - @elizabethsiegle

@@ -2,12 +2,12 @@
 id: cq5zfpb7ksjheeeyxstixjl
 title: Passkeys
 desc: ''
-updated: 1694555905991
+updated: 1695244611221
 created: 1691521859657
 ---
 # Move over passwords, passkeys are my new best friend! - Daphne Liu
-[Slides](daphneliu.com/passkeys.pdf)
-[Talk on YouTube](https://www.youtube.com/watch?v=a3yZUPMMTQw)
+[Slides](daphneliu.com/passkeys.pdf) |
+[Talk on YouTube](https://www.youtube.com/watch?v=a3yZUPMMTQw) |
 Daphne Liu @thebetterdaphne
 
 ## Passkeys

@@ -2,16 +2,16 @@
 id: clnwkhztghgqen05w4dorjn
 title: React_rendering
 desc: ''
-updated: 1692747622782
+updated: 1695244580596
 created: 1691514884910
 ---
 # 50 shades of React rendering with Next.js - Ben Ilegbodu
 
-[Blog post](https://slides.benmvp.com/2023/seattlejs/nextjs.html#/)
-
+[Blog post](https://slides.benmvp.com/2023/seattlejs/nextjs.html#/) |
+[Talk on YouTube](https://www.youtube.com/watch?v=JZIB8qrCers) |
 [Slides](https://slides.benmvp.com/2023/seattlejs/nextjs.html#/)
 
-[Talk on YouTube](https://www.youtube.com/watch?v=JZIB8qrCers)
+
 
 ## About React
 Multiple renderers
