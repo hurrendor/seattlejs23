@@ -2,7 +2,7 @@
 id: d7w2zpv4ukha5bltqxd6q7j
 title: Static Analysis
 desc: ''
-updated: 1694555476965
+updated: 1694809950802
 created: 1691527484192
 ---
 # Static Analysis: Don't Fear the Linter! - Josh Goldberg
@@ -79,7 +79,7 @@ Detect Incorrect Async Code
 1. Make sure you're using a formatter, linter AND type checker
 2. Use the recommended lint configs for your langauge, frameworks
 3. Check the [template-typescript-node-package](https://github.com/JoshuaKGoldberg/template-typescript-node-package)
-4. Check dustispecker/awesome-eslint for great ESLint configs & plugins
+4. Check [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) for great ESLint configs & plugins
 
 ## Resources
 * prettier.io

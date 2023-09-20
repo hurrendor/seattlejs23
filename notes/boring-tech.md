@@ -2,14 +2,13 @@
 id: 2ex3lbvm23i8f57mdoyyihn
 title: Boring Tech
 desc: ''
-updated: 1694552420211
+updated: 1695234071852
 created: 1691527519235
 ---
 # A Plea for Boring Tech - Jason Lengstorf
-[Slides - Needs link!]()
 [Talk on YouTube](https://www.youtube.com/watch?v=75dQlJKIfV0)
 
-Jason Lengstorf - [Learn With Jason](learnwithjason.dev) || [General links](jason.energy/links)
+Jason Lengstorf - [Learn With Jason](https://www.learnwithjason.dev/) || [General links](https://jason.energy/links/)
 
 ## General Rule: Work projects should be built on the most boring tech possible
 > I want to spend time building things, not maintaining things.
@@ -32,13 +31,13 @@ How many real world apps use this?
 #### O - Opaque
 Are there docs available?
 #### S - Speculative
-**INSERT MISSING DESCRIPTION**
+Have teams ever shipped this before, or is this uncharted waters?
 
 
 
 ## Keep Work Boring (BORED)
 #### B - Balanced 
-**INSERT MISSING DESCRIPTION**
+We can accurately assess the trade-offs of putting this tool into production
 #### O - Obvious 
 Deal with very few moving parts
 #### R - Reliable 

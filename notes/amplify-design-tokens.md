@@ -2,7 +2,7 @@
 id: 1lamf6j027gow759p4q0sv8
 title: Amplify Design Tokens
 desc: ''
-updated: 1694557781099
+updated: 1694810496186
 created: 1691520450864
 ---
 ### Creating a Design System using Design Tokens With Amplify - Erik Hanchett
@@ -11,6 +11,7 @@ co-written by Heather Bucknell from Amplify UI team
 
 Erik Hanchett - Developer Advocate for Amplify
 @ErikCH on Twitter
+[Github](https://github.com/ErikCH)
 
 ### Scenario
 Multiple websites/ website with lots of components.
@@ -49,10 +50,10 @@ Should you? It depends on your situation.
 
  [Amplify UI Design Tokens Spec](ui.docs.amplify.aws/react/theming)
 
- ## Creating a Custom Theme
+ ## Creating a Custom Theme (with Amplify)
  1. Create a Theme Object
- 2. Something-something Amplify UI
-
+ 2. Add ThemeProvider to your App
+ 
  ex: 
  `export const summerTheme: Theme = {`
     `name: "summerTheme",`
